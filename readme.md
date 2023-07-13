@@ -94,19 +94,12 @@ https://dog.ceo/dog-api/
 아잉 
 마크다운 에디터를 굳이 
 
-| |컬럼1|컬럼2|
-|---|---|---|
-|1|![존나 귀여운 사진](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_7315.jpg)
-|내용|
-|2|내용|
-
-
 
 
 | |breeds|image|
 |---|---|---|
 |1|elkhound-norwegian|![존나 귀여운 사진](https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_7315.jpg)|오||
-|2|mountain-bernese|![미친 사진](https://images.dog.ceo/breeds/mountain-bernese/n02107683_5848.jpg)||3|retriever-flatcoated|![����](https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_5001.jpg)||3|spaniel-sussex|![pic](https://images.dog.ceo/breeds/spaniel-sussex/n02102480_3588.jpg)|
+|2|mountain-bernese|![미친 사진](https://images.dog.ceo/breeds/mountain-bernese/n02107683_5848.jpg)||3|retriever-flatcoated|![����](https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_5001.jpg)||3|spaniel-sussex|![pic](https://images.dog.ceo/breeds/spaniel-sussex/n02102480_3588.jpg)|
 |3|mexicanhairless|![pic](https://images.dog.ceo/breeds/mexicanhairless/n02113978_632.jpg)|
 |0|wolfhound-irish|![pic](https://images.dog.ceo/breeds/wolfhound-irish/n02090721_1452.jpg)|
 |1|terrier-american|![pic](https://images.dog.ceo/breeds/terrier-american/n02093428_10947.jpg)|
@@ -128,3 +121,10 @@ https://dog.ceo/dog-api/
 |7|hound-english|![pic](https://images.dog.ceo/breeds/hound-english/n02089973_1957.jpg)|
 |8|maltese|![pic](https://images.dog.ceo/breeds/maltese/n02085936_16190.jpg)|
 |9|terrier-fox|![pic](https://images.dog.ceo/breeds/terrier-fox/n02095314_2230.jpg)|
+
+
+# 테이블을 만들어보자 
+| 컬럼 1 | 컬럼 2 | 컬럼 3 |
+| :---:  | :---: | :---:|
+| 내| 용| 용|
+|네 | 용 | 용|
